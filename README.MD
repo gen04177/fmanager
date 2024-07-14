@@ -11,5 +11,5 @@
 
 ## Next steps:
 
-- Implementation of a generic SDL2 keyboard to allow creating custom directories and renaming files/directories.
+- Implementation of a generic SDL2 keyboard to allow creating custom directories and renaming files/directories and finding files.
 - Copy and paste files and directories.
