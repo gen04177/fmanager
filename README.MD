@@ -26,7 +26,7 @@ L - Paste.
 
 Cross - Enter the selected directory.
 
-Circle - Moving up a directory.
+Circle - Moving up a directory/Close the virtual keyboard.
 
 Square - Create a new directory.
 
