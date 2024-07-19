@@ -24,5 +24,13 @@ R - Copy.
 
 L - Paste.
 
+Cross - Enter the selected directory.
+
+Circle - Moving up a directory.
+
+## Next steps:
+
+- Add a virtual keyboard (SDL2) to rename files/directories and create directories with custom names.
+
 ## Credits
 Credits to J. Tornblom for the SDK and required payloads.
