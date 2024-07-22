@@ -28,9 +28,9 @@ Cross - Enter the selected directory.
 
 Circle - Moving up a directory/Close the virtual keyboard.
 
-Square - Create a new directory.
+Square - Create a new directory/Backspace.
 
-Touchpad - Rename files/directories.
+Touchpad - Rename files and directories.
 
 
 ## Credits
