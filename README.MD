@@ -1,6 +1,6 @@
 # fmanager
 
-This is a simple File Manager developed in C/SDL2, designed to be used on a PS5 with Jailbreak firmware (3.xx-4.xx).
+This is a simple File Manager developed in C/SDL2, designed to be used on a jailbroken PS5 (1.xx-4.xx).
 
 ## Prerequisites
 - elfldr.elf
@@ -34,4 +34,4 @@ Touchpad - Rename files and directories.
 
 
 ## Credits
-Credits to J. Tornblom for the SDK and required payloads.
+- J. Tornblom - SDK and required payloads.
